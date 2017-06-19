@@ -1,5 +1,7 @@
 # Copyright (c) 2013,2015, The Linux Foundation. All rights reserved.
 #
+# Source: https://source.codeaurora.org/quic/la/device/qcom/common/tree/display/logo?h=LA.BR.1.2.7_rb1.1
+#
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are
 # met:
