@@ -56,6 +56,13 @@ fastboot flash splash splash.img
 
 Replace `splash.img` with the path to your splash screen, if other.
 
+To boot your phone again, run:
+
+```
+fastboot reboot
+```
+
+Alternatively, you can hold the power button for some seconds.
 
 ### Restoring original image
 
