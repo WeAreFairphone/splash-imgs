@@ -68,7 +68,7 @@ import struct
 import StringIO
 from PIL import Image
 
-SUPPORT_RLE24_COMPRESSIONT = 1
+SUPPORT_RLE24_COMPRESSIONT = 0
 
 ## get header
 def GetImgHeader(size, compressed=0, real_bytes=0):
