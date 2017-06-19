@@ -228,7 +228,7 @@ def GetImageBody(img, compressed=0):
         return encodeRLE24(background)
     else:
         r, g, b = background.split()
-        return Image.merge("RGB",(b,g,r)).tostring()
+        return Image.merge("RGB",(b,g,r)).tobytes()
 
 ## make a image
 
