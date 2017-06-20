@@ -24,7 +24,7 @@ Run:
 python2 logo_gen.py <raster image file>
 ```
 
-Raster image file can be PNG, JPEG, BMP and GIF, no bigger than 1080x1920 pixels (FP2's resolution)
+Raster image file can be PNG, JPEG, BMP and GIF, 1080x1920 pixels size (FP2's resolution)
 
 Splash image will be saved to `./splash.img`
 
