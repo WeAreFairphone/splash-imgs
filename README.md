@@ -66,4 +66,4 @@ Alternatively, you can hold the power button for some seconds.
 
 ### Restoring original image
 
-If your own splash screen didn't worked as expected, you can find official Fairphone 2 splash screens under the `official-splash-imgs` folder, here in the repo. `lp_splash.img` is the splash screen for Lollipop and `mm_splash.img` is the one for Marhsmallow. Take either file and flash it with the instructions provided above.
+If your own splash screen didn't worked as expected, you can find official Fairphone 2 splash screens under the `official-splash-imgs` folder, here in the repo. `lp_splash.img` is the splash screen for Lollipop and `mm_splash.img` is the one for Marshmallow. Take either file and flash it with the instructions provided above.
